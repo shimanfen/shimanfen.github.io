@@ -1,1 +1,0 @@
-# shimanfen.github.io
