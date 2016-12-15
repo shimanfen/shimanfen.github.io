@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
+title:  "诗曼芬?"
+description: 诗曼芬集团自2007年创办于深圳，经过5年的经营，诗曼芬已经发展成为一家现代大型企业。 公司总部位于品牌之都深圳罗湖区，自2007年创建深圳诗曼芬时装有限公司。诗曼芬女人充满强大的女性魅力，她们拥有天生的细腻与诱惑，她们更善于并热于表现这与生俱来的优势，使自己在人群中闪耀放光；她们是享乐主义者，追求快乐是她们的生活目标，她们自我愉悦、享受当下、贪恋并乐于尝试新鲜事物；年轻时尚和梦想她们从不舍弃；她们具有超凡的领袖魅力，她们是光环下的意见领袖，她们自信、高要求、她们的气场足以震慑人群；她们也充满戏剧性，她们喜欢用迥异夸张的方式去炫耀自己的光芒，去彰显自己的非凡魅力。公司名称 深圳诗曼芬时装有限公司 外文名称 SMF 总部地点 广东省深圳市罗湖区深南东路4003号世界金融中心A座22楼[1]  成立时间 2007date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: karna.jpg
 categories: [one, two]
 color: 1976D2
 author: webjeda
 ---
-Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
 
-Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
+诗曼芬集团自2007年创办于深圳，经过5年的经营，诗曼芬已经发展成为一家现代大型企业。 公司总部位于品牌之都深圳罗湖区，自2007年创建深圳诗曼芬时装有限公司。诗曼芬女人充满强大的女性魅力，她们拥有天生的细腻与诱惑，她们更善于并热于表现这与生俱来的优势，使自己在人群中闪耀放光；她们是享乐主义者，追求快乐是她们的生活目标，她们自我愉悦、享受当下、贪恋并乐于尝试新鲜事物；年轻时尚和梦想她们从不舍弃；她们具有超凡的领袖魅力，她们是光环下的意见领袖，她们自信、高要求、她们的气场足以震慑人群；她们也充满戏剧性，她们喜欢用迥异夸张的方式去炫耀自己的光芒，去彰显自己的非凡魅力。
+公司名称 深圳诗曼芬时装有限公司 外文名称 SMF 总部地点 广东省深圳市罗湖区深南东路4003号世界金融中心A座22楼[1]  成立时间 2007
 
 ![Karna]({{site.baseurl}}/images/karna-2.jpg)
 
